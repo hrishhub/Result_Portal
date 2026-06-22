@@ -301,8 +301,8 @@ export default function App() {
             <div className="text-indigo-600 font-extrabold">U</div>
           </div>
           <div className="text-center">
-            <h1 className="text-xl md:text-2xl font-semibold text-slate-900">NIT Nagaland Result Portal</h1>
-            <p className="text-sm text-slate-600">Official Result Portal — Semester Grade Summary</p>
+            <h1 className="text-xl md:text-2xl font-semibold text-slate-900">Result Portal</h1>
+            <p className="text-sm text-slate-600">Result Portal — Semester Grade Summary</p>
           </div>
         </div>
 
